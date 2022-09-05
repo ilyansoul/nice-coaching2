@@ -1,0 +1,50 @@
+.navbar {
+    padding: 0;
+    height: 10vh;
+
+}
+
+
+
+#logo {
+    width: 180px;
+    height:100%;
+}
+
+a.nav-link.active {
+    color: #ff5b3e;
+    cursor: pointer;
+    
+}
+
+a.nav-link {
+    color: #ff5b3e;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-align: center;
+}
+
+div.container-fluid {
+    background-color: #000000;
+    height: 100%;
+    
+}
+
+.navbar-toggler{
+    color: rgb(0, 0, 0);
+}
+
+.button.navbar-toggler {
+    background-color: #ff5b3e;
+    text-align: center;
+}
+
+.button {
+    color: white;
+}
+.navbar-toggler-icon {
+    background-color: #ff5b3e;
+    border: 1px solid #ff5b3e;
+    
+}

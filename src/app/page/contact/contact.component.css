@@ -1,0 +1,14 @@
+.banner {
+    background-image: url('../../../assets/jk.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    
+}
+
+
+
+.container h1 {
+    text-align: center;
+    font-size: 30px;
+}

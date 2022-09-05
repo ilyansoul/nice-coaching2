@@ -1,0 +1,6 @@
+.banner {
+    background-image: url('../../../assets/jk.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+}
